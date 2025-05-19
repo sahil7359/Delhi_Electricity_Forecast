@@ -1,0 +1,29 @@
+{
+  "name": "delhi-electricity-forecast",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.8",
+    "next": "15.2.4",
+    "react": "^19.0.0",
+    "react-bootstrap": "^2.10.9",
+    "react-chartjs-2": "^5.3.0",
+    "react-datepicker": "^8.2.1",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.18",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.4",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}
